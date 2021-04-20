@@ -11,3 +11,6 @@ This will make the devices show up here everytime Live is open and new session i
 ![](./MaxforLive.png)
 
 See the [manual](https://www.ableton.com/en/manual/max-for-live/) on the Ableton website for more information about Max for Live
+
+### Notes
+Some may have bugs, feel free to report any issues. 
